@@ -1,0 +1,10 @@
+:root{
+    --admin-color : linear-gradient(0deg, #D63500, #D63500),linear-gradient(0deg, #FBEBEA, #FBEBEA);
+    --assessment_color-background: #1C4980;
+    --assessment_color_active:#0073E6;
+    --mobile-screen:#1C4980;
+    --status-number:#05C165;
+    --background-color-secondary:#EBE8FD;
+
+    
+}
